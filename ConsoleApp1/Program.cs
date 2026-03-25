@@ -6,3 +6,4 @@ Console.WriteLine(" hello 4");
 Console.WriteLine(" hello 6");
 Console.WriteLine(" hello 7");
 Console.WriteLine(" Wrong mesage");
+Console.WriteLine(" fix hello 7");
