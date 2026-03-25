@@ -8,3 +8,6 @@ Console.WriteLine(" hello 7");
 Console.WriteLine(" Wrong mesage");
 Console.WriteLine(" fix hello 7");
 Console.WriteLine(" fix hello 8");
+Console.WriteLine(" Wrong mesage");
+Console.WriteLine(" fix hello 9");
+Console.WriteLine(" fix hello 9");
